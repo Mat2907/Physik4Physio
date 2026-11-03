@@ -10,9 +10,11 @@
     Diagrammen (per Formel gezeichnet), Tabellen und Merkekästen; schrittweise aufdeckbar,
     **Bearbeitungsmodus (✏️, Taste E)** zum direkten Editieren, **Stift & Radierer (🖊, Taste S)**
     zum Freihand-Annotieren auf der Tafel (wird je Hefteintrag gespeichert)
-  - **📖 Schülerskript als PDF**: Deckblatt + Übersicht + 16 Stundenseiten (Ablauf, Material,
-    Methodenkiste, Hefteintrag als Mitschrieb — ohne Lösungen/Notizen), über „Als PDF drucken"
-    (Profil → Lehrkraft-Werkzeuge → 📖, oder in der Stunden-Übersicht)
+  - **📖 Schülerskript als PDF**: nur die 16 Hefteinträge (Deckblatt + Inhaltsverzeichnis + je
+    Eintrag eine Seite als Mitschrieb — ohne Stundenaufbau, Lehrplanbezug, Lösungen/Notizen);
+    über „Als PDF drucken" (Profil → Lehrkraft-Werkzeuge → 📖)
+  - **🖊 Hefteinträge visuell**: 52 Abbildungen (u. a. 4 biomechanische Hebel-Skizzen zu Ellenbogen,
+    Schulter, Wirbelsäule, Fußgelenk + Kräfteparallelogramm + gelöste Rechenbeispiele im Raum Kräfte)
   - **📝 Schulaufgaben-Werkstatt** mit 104 Aufgaben im Physio-Kontext → Erwartungshorizont,
     Einschätzungsmatrix, Notenschlüssel, Word-/Druck
   - **🔑 Antwortschlüssel** aller Quiz-, Karteikarten- und Prüfungsaufgaben
